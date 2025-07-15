@@ -21,6 +21,17 @@
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": "1.0"
+    },
+    {
+      "table": "CODBEX_PRODUCTATTRIBUTEGROUP",
+      "schema": "PUBLIC",
+      "file": "/codbex-products-sample-data/product-groups.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
     }
   ]
 }
